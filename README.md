@@ -44,8 +44,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no IFPR, apaixonada por 
 <p align="left">
   <a href="mailto:naymota25@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/>
+  <a href="https://lattes.cnpq.br/8753276826238311" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281760.png" width="40" title="Lattes"/>
   </a>
   <a href="https://www.linkedin.com/in/nayara-mota-59139b373?trk=contact-info" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
+
