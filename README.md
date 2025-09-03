@@ -1,16 +1,62 @@
-## Hi there 👋
+## 👋 Olá! Seja bem-vindo(a) ao meu perfil, eu sou Nayara Mota
 
-<!--
-**NayarafMota/NayarafMota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas no IFPR, apaixonada por tecnologia, desenvolvimento web e automação. Atualmente focada em front-end, mas com experiência prática também em back-end.
 
-Here are some ideas to get you started:
+- 🔧 Trabalhando no meu TCC: uma aplicação back-end com PHP e Laravel
+- 🌱 Estudando desenvolvimento Front-End com foco em boas práticas
+- 💻 Buscando colaborar em projetos web que envolvam HTML, CSS, Python, Go e Docker
+- 🐳 Explorando melhores práticas com Docker para ambientes Laravel
+- 📫 Entre em contato: [naymota25@gmail.com](mailto:naymota25@gmail.com)
+- 😄 Pronomes: Ela/Dela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tecnologias que uso:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
+### 🚀 Projetos em Destaque
+
+- 🧮 [IMC_FX](https://github.com/NayarafMota/IMC_FX) – Aplicação web para cálculo de IMC usando Laravel e autenticação
+- 📦 Em breve: Automação de tarefas com Python e Docker
+
+---
+
+### 📊 Estatísticas do GitHub:
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=NayaraMferreira&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+    </td>
+    <td width="30"></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraMferreira&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📬 Contato
+
+<p align="left">
+  <a href="mailto:naymota25@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  <!--
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  -->
+</p>
+
